@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3eafcb2e.chunk.css",
+    "main.js": "/static/js/main.7f0a1520.chunk.js",
+    "main.js.map": "/static/js/main.7f0a1520.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7310a31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7310a31.js.map",
+    "static/js/2.2cc84e4a.chunk.js": "/static/js/2.2cc84e4a.chunk.js",
+    "static/js/2.2cc84e4a.chunk.js.map": "/static/js/2.2cc84e4a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a69ff339f05af7e68d6e0f1a7d5ca266.js": "/precache-manifest.a69ff339f05af7e68d6e0f1a7d5ca266.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3eafcb2e.chunk.css.map": "/static/css/main.3eafcb2e.chunk.css.map",
+    "static/js/2.2cc84e4a.chunk.js.LICENSE.txt": "/static/js/2.2cc84e4a.chunk.js.LICENSE.txt",
+    "static/media/cssReset.css": "/static/media/PingFang-Medium.15974853.ttf",
+    "static/media/banner.mp4": "/static/media/banner.3e78e808.mp4",
+    "static/media/banner.jpg": "/static/media/banner.47f71d48.jpg",
+    "static/media/music.mp3": "/static/media/music.d8637316.mp3",
+    "static/media/wind.mp3": "/static/media/wind.06ec9738.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7310a31.js",
+    "static/js/2.2cc84e4a.chunk.js",
+    "static/css/main.3eafcb2e.chunk.css",
+    "static/js/main.7f0a1520.chunk.js"
+  ]
+}
