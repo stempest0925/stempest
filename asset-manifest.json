@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eafcb2e.chunk.css",
-    "main.js": "/static/js/main.a2fd0375.chunk.js",
-    "main.js.map": "/static/js/main.a2fd0375.chunk.js.map",
+    "main.css": "/static/css/main.3ee7de49.chunk.css",
+    "main.js": "/static/js/main.88e2c70d.chunk.js",
+    "main.js.map": "/static/js/main.88e2c70d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e7310a31.js",
     "runtime-main.js.map": "/static/js/runtime-main.e7310a31.js.map",
-    "static/js/2.0263e3a0.chunk.js": "/static/js/2.0263e3a0.chunk.js",
-    "static/js/2.0263e3a0.chunk.js.map": "/static/js/2.0263e3a0.chunk.js.map",
+    "static/js/2.58842a31.chunk.js": "/static/js/2.58842a31.chunk.js",
+    "static/js/2.58842a31.chunk.js.map": "/static/js/2.58842a31.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c9a7ae367aacea3bc0fba2898df80a7b.js": "/precache-manifest.c9a7ae367aacea3bc0fba2898df80a7b.js",
+    "precache-manifest.7c506b1991d3e7ea58b00e10541a79b0.js": "/precache-manifest.7c506b1991d3e7ea58b00e10541a79b0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3eafcb2e.chunk.css.map": "/static/css/main.3eafcb2e.chunk.css.map",
-    "static/js/2.0263e3a0.chunk.js.LICENSE.txt": "/static/js/2.0263e3a0.chunk.js.LICENSE.txt",
+    "static/css/main.3ee7de49.chunk.css.map": "/static/css/main.3ee7de49.chunk.css.map",
+    "static/js/2.58842a31.chunk.js.LICENSE.txt": "/static/js/2.58842a31.chunk.js.LICENSE.txt",
     "static/media/cssReset.css": "/static/media/PingFang-Medium.15974853.ttf",
+    "static/media/aboutme-banner.jpg": "/static/media/aboutme-banner.57d970ec.jpg",
+    "static/media/author.jpg": "/static/media/author.e7c084c6.jpg",
+    "static/media/banner-cover.jpg": "/static/media/banner-cover.47f71d48.jpg",
     "static/media/banner.mp4": "/static/media/banner.3e78e808.mp4",
-    "static/media/banner.jpg": "/static/media/banner.47f71d48.jpg",
-    "static/media/music.mp3": "/static/media/music.d8637316.mp3",
+    "static/media/vocal.mp3": "/static/media/vocal.d8637316.mp3",
     "static/media/wind.mp3": "/static/media/wind.06ec9738.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.e7310a31.js",
-    "static/js/2.0263e3a0.chunk.js",
-    "static/css/main.3eafcb2e.chunk.css",
-    "static/js/main.a2fd0375.chunk.js"
+    "static/js/2.58842a31.chunk.js",
+    "static/css/main.3ee7de49.chunk.css",
+    "static/js/main.88e2c70d.chunk.js"
   ]
 }
